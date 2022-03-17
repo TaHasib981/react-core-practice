@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.compu{
+  background-color: #61dafb;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 30px;
+}
+.compu h3{
+  color: green;
+}
